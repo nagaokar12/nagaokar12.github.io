@@ -2,11 +2,11 @@
   "basics": {
     "name": "Reece Nagaoka",
     "label": "Shidler Undergraduate",
-    "picture": "https://nagaokar12.github.io/images/Reece Nagaoka_cropped.jpg",
+    "picture": "https://nagaokar12.github.io/images/Nagaoka Reece_cropped.jpg",
     "email": "nagaokar@hawaii.edu",
-    "phone": "",
+    "phone": "808-295-2834",
     "website": "https://nagaokar12.github.io",
-    "summary": "I am studying for a B.B.A. in Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "summary": "I am studying for a B.B.A. in Management Information Systems at the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "nagaokar12",
         "url": "http://github.com/nagaokar12"
-      },
+      }
     ]
   },
   "interests": [
- {
+    {
       "name": "Video games",
       "keywords": [
       ]
@@ -45,7 +45,7 @@
       "level": "",
       "keywords": [
         "C++",
-        "Java",
+        "Java"
       ]
     },
     {
@@ -54,18 +54,18 @@
       "keywords": [
         "Word",
         "Excel",
-        "PowerPoint",
+        "PowerPoint"
       ]
     },
     {
-      "name": "Google Suite",
+      "name": "Google Slides",
       "level": "",
       "keywords": [
         "Docs",
         "Sheets",
-        "Slides",
+        "Slides"
       ]
-    }
+    }  
   ],
   "education": [
     {
@@ -81,7 +81,7 @@
   ],
   "work": [
     {
-      "company": "Ka Leo o Hawaii",
+      "company": "UH Manoa Board of Publications",
       "position": "Staff Writer",
       "website": "",
       "startDate": "2021-02-26",
@@ -89,7 +89,7 @@
       "summary": "",
       "highlights": [
         "Covered baseball and beach volleyball during their 2021 seasons",
-        "Wrote recaps on women's basketball and men's volleyball's play in their respective Big West Conference tournaments"
+        "Wrote recaps on conference tournament runs for women's basketball and men's volleyball"
       ]
     },
     {
@@ -101,21 +101,21 @@
       "summary": "",
       "highlights": [
         "Processed invoices for certain sports and departments within Athletics",
-        "Ran errands for employees within the business office division"
+        "Ran work-related errands for employees in the business office division"
       ]
     }
   ],
   "awards": [
     {
       "title": "Dean's List",
-      "date": "2021–present",
+      "date": "Spring 2021",
       "awarder": "University of Hawaii at Manoa",
       "summary": ""
     },
     {
       "title": "Scholarship",
       "date": "2018",
-      "awarder": "IBEW Local 1357",
+      "awarder": "IBEW Local Union 1357",
       "summary": ""
     }
   ],
