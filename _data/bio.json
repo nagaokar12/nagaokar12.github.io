@@ -95,11 +95,17 @@
   ],
   "awards": [
     {
+      "title": "Dean's List",
+      "date": "2021",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": ""
+    },
+    {
       "title": "Scholarship",
       "date": "2018",
       "awarder": "IBEW Local 1357",
       "summary": ""
-    },
+    }, 
   ],
   "references": [
     {
