@@ -14,7 +14,6 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-  },
     "profiles": [
       {
         "network": "github",
@@ -22,6 +21,7 @@
         "url": "http://github.com/nagaokar12"
       },
     ],
+  },
   "interests": [
     {
       "name": "Video games",
