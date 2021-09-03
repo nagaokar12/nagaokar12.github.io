@@ -53,6 +53,24 @@
         "Java",
       ]
     },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": [
+        "Word",
+        "Excel",
+        "Powerpoint",
+      ]
+    },
+    {
+      "name": "Google Suite",
+      "level": "",
+      "keywords": [
+        "Docs",
+        "Sheets",
+        "Slides",
+      ]
+    },
   ],
   "education": [
     {
