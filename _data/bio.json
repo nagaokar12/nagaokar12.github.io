@@ -17,13 +17,28 @@
     "profiles": [
       {
         "network": "github",
-        "username": "nagaokar12",
-        "url": "http://github.com/nagaokar12"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
-    ],
+      {
+        "network": "linkedin",
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
+      }
+    ]
   },
   "interests": [
-    {
+ {
       "name": "Video games",
       "keywords": [
       ]
@@ -65,7 +80,7 @@
         "Sheets",
         "Slides",
       ]
-    },
+    }
   ],
   "education": [
     {
@@ -103,7 +118,7 @@
         "Processed invoices for certain sports and departments within Athletics",
         "Ran errands for employees within the business office division"
       ]
-    },
+    }
   ],
   "awards": [
     {
@@ -117,7 +132,7 @@
       "date": "2018",
       "awarder": "IBEW Local 1357",
       "summary": ""
-    }, 
+    }
   ],
   "references": [
     {
