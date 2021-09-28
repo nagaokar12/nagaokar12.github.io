@@ -4,7 +4,7 @@ type: essay
 title: E1 UI Basics Technical Essay
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-15
-labels:
+labels: WODs, Technical Essay
 ---
 
 I thought BrowserHistory1 was quite easy to follow, even though it was probably the most time-consuming of the three browser history assignments. That was the only one of the three for me that I got on the first attempt. The readings were really helpful with helping me complete the first BrowserHistory. I think the hardest thing for me was just figuring where to place the text links to external pages, but I just put them where I thought they were best. I don't remember exactly how long it took me to complete the first one, I believe it was in the 13-to-14 minute range though. 
