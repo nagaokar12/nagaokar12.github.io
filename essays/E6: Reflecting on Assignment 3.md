@@ -13,13 +13,13 @@ labels:
 My system is a store selling diecast cars. There are three types of cars being sold; standard road cars and racing vehicles (stock and open-wheel). The fourth product page is a page that sells display cases for diecast cars.
 
 #### 2. Any notable shortcomings, bugs, problems, or additional features not implemented?
-There were a lot, but once I complete it, I'll narrow it down.
+Security was one thing I did not focus much on. I did not do the extra credit assignment 
 
 #### 3. Describe what you are most proud of about your system:
-I'm comfortable with how the linkage to every page worked out. It ran smoothly transitioning from page to page, in my opinion. It's not a hard thing to do, but that was one of the few things that was handled quite cleanly making this assignment.
+I'm comfortable with how the linkage to every page worked out. It ran smoothly transitioning from page to page, in my opinion. It's not a hard thing to do, but that was one of the few things that was handled quite cleanly making this assignment. I'm pretty happy with how the navbar turned out considering how bad it looked in the beginning of the project. It displays the username, cart quantity, and all four product pages cleanly.
 
 #### 4. Describe what you are least happy with your system:
-I'm not happy with how the display is. I spent a significant chunk of time trying to figure out how my navbar could be user-friendly, and in the end, I couldn't figure it out.
+I'm least happy with my invoice display. A lot of people had nicer displays and I keep getting docked for how it's looked, which I suspect is what will happen in this assignment too. Considering the amount of time I spent on other parts of this project, it looks better than it did before. 
 
 #### 5. How was developing this assignment different than assignment #2?
 Developing this assignment was different than Assignment #2 because everything was so specific whereas Assignment 2 was quite basic in comparison. Assignment 3 also involves using cookies and sessions for the user data instead of the querystring as well.
@@ -28,7 +28,7 @@ Developing this assignment was different than Assignment #2 because everything w
 When I ran into a problem, I looked at other people's code and compared it to what I was missing or misused. If I couldn't solve my issue off of that, I asked Professor Port for help, and he helped diagnosed the problem.
 
 #### 7. Describe what worked well in doing this assignment?
-Still trying to figure that out, if I'm honest.
+Not a lot, if I'm honest. The end product looked good, but I needed an extension to complete it. I would say my knowledge is better since my help sessions with Professor Port explained how to do something rather than just copying the code. 
 
 #### 8. Describe what did not work well in doing this assignment?
 I think copying code and not knowing what it did hurt me. Trying to translate other people's code into mine was a pain, and I feel like it ate up a lot of time that could've been spent on other things.
